@@ -1,5 +1,5 @@
 // Leetcode 189
-// Brute force
+// Brute force method
 // TC : O(3N) SC : O(N)
 class Solution {
     public void rotate(int[] nums, int k) {
